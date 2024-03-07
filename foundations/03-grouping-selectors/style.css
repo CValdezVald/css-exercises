@@ -1,0 +1,14 @@
+
+/* when elements share similar traits do this */
+.boxOne,.boxTwo{
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', sans-serif;
+}
+.boxOne{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+.boxTwo{
+    background-color: rgb(202, 202, 74);
+}
